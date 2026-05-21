@@ -1,0 +1,5 @@
+Mi primera pr ctica con Git y GitHub.
+nombre: Johan Cruz
+cruso: ing. software
+fecha: 20/05/2026
+Estoy aprendiendo a usar control de versiones.
